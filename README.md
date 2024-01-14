@@ -1,5 +1,4 @@
-# ***El7a2ny-ACL-clinic***
-
+***EL7A2NY PROJECT***
 # The project was conceived with the following motivation:
 --Streamlining Healthcare Interactions
 
